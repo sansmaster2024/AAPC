@@ -1,0 +1,7 @@
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Debug\net6.0-windows8.0\WinFormsApp1.Form1.resources
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Debug\net6.0-windows8.0\AAPC.csproj.GenerateResource.cache
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Debug\net6.0-windows8.0\AAPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Debug\net6.0-windows8.0\AAPC.AssemblyInfoInputs.cache
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Debug\net6.0-windows8.0\AAPC.AssemblyInfo.cs
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Debug\net6.0-windows8.0\AAPC.csproj.CoreCompileInputs.cache
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Debug\net6.0-windows8.0\AAPC.sourcelink.json

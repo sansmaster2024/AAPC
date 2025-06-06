@@ -1,0 +1,17 @@
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\bin\Release\net6.0-windows8.0\WinFormsApp1.exe
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\bin\Release\net6.0-windows8.0\WinFormsApp1.deps.json
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\bin\Release\net6.0-windows8.0\WinFormsApp1.runtimeconfig.json
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\bin\Release\net6.0-windows8.0\WinFormsApp1.dll
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\bin\Release\net6.0-windows8.0\WinFormsApp1.pdb
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Release\net6.0-windows8.0\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Release\net6.0-windows8.0\WinFormsApp1.Form1.resources
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Release\net6.0-windows8.0\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Release\net6.0-windows8.0\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Release\net6.0-windows8.0\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Release\net6.0-windows8.0\WinFormsApp1.AssemblyInfo.cs
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Release\net6.0-windows8.0\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Release\net6.0-windows8.0\WinFormsApp1.dll
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Release\net6.0-windows8.0\refint\WinFormsApp1.dll
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Release\net6.0-windows8.0\WinFormsApp1.pdb
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Release\net6.0-windows8.0\WinFormsApp1.genruntimeconfig.cache
+C:\Users\jihoon\source\repos\ATLS\WinFormsApp1\obj\Release\net6.0-windows8.0\ref\WinFormsApp1.dll

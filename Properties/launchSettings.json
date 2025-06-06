@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AAPC": {
+      "commandName": "Project",
+      "commandLineArgs": "/HEAP: 4000000000"
+    }
+  }
+}
