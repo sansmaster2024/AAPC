@@ -1,5 +1,3 @@
-너무 오래돼서 AAPC가 몬소리인지 모르겠음
-
 ADOFAI angleData to pathData
 
 미니멀 타일 없음, 비트 일시정지 등 문제 살짝 잇음
